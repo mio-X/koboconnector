@@ -1,0 +1,28 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "dataStudio": {
+    "name": "KoboToolbox Connector",
+    "logoUrl": "https://raw.githubusercontent.com/mio-X/mio/main/mio_logo.svg",
+    "company": "Myo Oo (Community)",
+    "companyUrl": "https://github.com/mio-X",
+    "addonUrl": "https://github.com/mio-X/koboconnector",
+    "supportUrl": "https://github.com/mio-X/koboconnector/issues",
+    "description": "Connect to KoboToolbox to get form data.",
+    "shortDescription": "Connect to KoboToolbox to get form data.",
+    "authType": [
+      "NONE"
+    ],
+    "feeType": [
+      "FREE"
+    ],
+    "sources": [
+      "KoboToolbox"
+    ]
+  }
+}
